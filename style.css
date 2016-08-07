@@ -1,0 +1,13 @@
+body{
+	background-color: #B2DFDB;
+}
+.jumbotron{
+	text-align: center;
+	background-color:#009688;
+	color:white;
+}
+.embed-responsive-item{
+	padding-left: 33%;
+}
+
+
